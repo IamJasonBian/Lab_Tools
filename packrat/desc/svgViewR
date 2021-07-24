@@ -1,0 +1,18 @@
+Package: svgViewR
+Date: 2019-07-03
+Title: 3D Animated Interactive Visualizations Using SVG
+Description: Creates 3D animated, interactive visualizations that can be viewed in a web browser.
+Version: 1.4
+Depends: R (>= 3.2.4)
+Imports: grid, rjson, Rook, methods, Rcpp (>= 0.9.9)
+LinkingTo: Rcpp
+Author: Aaron Olsen, Alejandro Romero
+Maintainer: Aaron Olsen <aarolsen@gmail.com>
+Repository: CRAN
+URL: https://aaronolsen.github.io/tutorials/visualization3d.html
+License: GPL (>= 2)
+NeedsCompilation: yes
+Packaged: 2019-07-09 21:09:21 UTC; aaron
+Date/Publication: 2019-07-09 21:40:03 UTC
+Built: R 3.5.3; x86_64-w64-mingw32; 2019-11-05 14:20:05 UTC; windows
+Archs: i386, x64
